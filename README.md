@@ -1,1 +1,1 @@
-# Lovely-mom-
+Dear Mom There are a million ways to say "I love you," but none seem big enough for everything you've done. You were my first friend, my biggest supporter, and the safest place I've ever known. Even when I failed, you believed in me. Even when I doubted myself, you were sure. Thank you for every sacrifice, every silent prayer, and every time you chose me over yourself. You are my hero, my heart, and my home. Love always
