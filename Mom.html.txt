@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>For My Mom</title>
+    <style>
+        body {
+            background-color: #fff0f5; /* Lavender Blush */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .card {
+            background-color: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+            text-align: center;
+            border: 2px solid #ffb6c1;
+        }
+        h1 {
+            color: #ff69b4; /* Hot Pink */
+            font-size: 3rem;
+        }
+        p {
+            color: #555;
+            font-size: 1.5rem;
+            line-height: 1.6;
+        }
+        .heart {
+            color: #e74c3c;
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <div class="heart">❤️</div>
+        <h1>Hi Mom!</h1>
+        <p>I just wanted to say that<br>
+        <strong>I love you the most.</strong></p>
+        <p>Thank you for everything you do!</p>
+    </div>
+
+</body>
+</html>
